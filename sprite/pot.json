@@ -1,0 +1,81 @@
+{
+    "spriteSheetURL": "./graphics/tilesheet.png",
+    "type":"none",
+    "size":[16,16],
+    "sprites":[
+        {
+            "name":"pot_1",
+                
+                    "x":208,
+                    "y":0,
+                    "scalefactor":3,
+                    "colorKey":-1
+                },
+                {
+                  "name":"pot_2",
+                
+                    "x":224,
+                    "y":0,
+                    "scalefactor":3,
+                    "colorKey":-1  
+                },
+                {
+                    "name":"pot_3",
+                  
+                      "x":240,
+                      "y":0,
+                      "scalefactor":3,
+                      "colorKey":-1  
+                  },
+                  {
+                    "name":"pot_4",
+                  
+                      "x":208,
+                      "y":16,
+                      "scalefactor":3,
+                      "colorKey":-1  
+                  },
+                  {
+                    "name":"pot_5",
+                  
+                      "x":224,
+                      "y":16,
+                      "scalefactor":3,
+                      "colorKey":-1  
+                  },
+                  {
+                    "name":"pot_6",
+                  
+                      "x":240,
+                      "y":16,
+                      "scalefactor":3,
+                      "colorKey":-1  
+                  },
+                  {
+                    "name":"pot_7",
+                  
+                      "x":208,
+                      "y":32,
+                      "scalefactor":3,
+                      "colorKey":-1  
+                  },
+                  {
+                    "name":"pot_8",
+                  
+                      "x":224,
+                      "y":32,
+                      "scalefactor":3,
+                      "colorKey":-1  
+                  },
+                  {
+                    "name":"pot_9",
+                  
+                      "x":240,
+                      "y":32,
+                      "scalefactor":3,
+                      "colorKey":-1  
+                  }
+                  
+
+    ]
+}

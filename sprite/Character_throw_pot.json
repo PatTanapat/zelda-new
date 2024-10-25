@@ -1,0 +1,68 @@
+{
+    "spriteSheetURL": "./graphics/character_walk.png",
+    "type":"animation",
+    "size":[16,32],
+    "sprites":[
+        {
+            "name":"character_throw_pot_down",
+            "images":[
+                {
+                    "x":0,
+                    "y":0,
+                    "scalefactor":3,            
+                    "colorKey": -1
+                }
+               
+
+            ],
+	 	 "loop":false,
+            "interval_time":0.10,
+            "colorKey": null
+        },
+        {
+            "name":"character_throw_pot_right",
+            "images":[
+                {
+                    "x":0,
+                    "y":32,
+                    "scalefactor":3,            
+                    "colorKey": -1
+                }
+            ],
+	 	 "loop":false,
+            "interval_time":0.10,
+            "colorKey": null
+        },
+        {
+            "name":"character_throw_pot_up",
+            "images":[
+                { 
+                    "x":0,
+                    "y":64,
+                    "scalefactor":3,            
+                    "colorKey": -1
+                }
+
+            ],
+	 	 "loop":false,
+            "interval_time":0.10,
+            "colorKey": null
+        },
+	   {
+            "name":"character_throw_pot_left",
+            "images":[
+                {
+                    "x":0,
+                    "y":96,
+                    "scalefactor":3,           
+                    "colorKey": -1
+                }
+
+            ],
+	 	 "loop":false,
+            "interval_time":0.10,
+            "colorKey": null
+        }
+]
+}
+
